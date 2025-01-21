@@ -3,8 +3,10 @@
  <head>
   <meta charset="utf-8" />
   <title>Lab_1</title>
- </head> 
+ </head> <!-- HEAD -->
+
  <body>
   <p>Привет, мир!</p>
- </body>
-</html>
+ </body> <!-- BODY -->
+
+</html> <!-- HTML -->
